@@ -1,17 +1,22 @@
-## Hi there! 👋
+# 🎨 Front-End Web Developer
 
-I'm Ziad, a passionate front-end developer with expertise in HTML, CSS, JavaScript (ES6+), React, Sass, Git, and GitHub. I love creating intuitive and visually appealing user interfaces that enhance the web browsing experience.
+Hey 👋 I'm Ziad Mohsen, A dedicated **front-end developer** with a strong passion for building clean, responsive, and user-friendly web interfaces.
 
-### 🔭 I'm currently working on:
-- Improving my React skills by building a personal project.
-- Exploring new front-end technologies and frameworks.
+While my main focus is front-end development, I also have experience with **UI/UX design** and am familiar with **backend development** using the MERN stack.
 
-### 🌱 I'm currently learning:
-- TypeScript
-- Next.js
-- Advanced CSS techniques
+---
 
-### 📫 How to reach me:
-- Email: [zm.ze05ad@gmail.com](mailto:zm.ze05ad@gmail.com)
-- LinkedIn: [ziyad-mohsen](https://www.linkedin.com/in/ziyad-mohsen-453b09264/)
-- Twitter: [@ze05ad](https://x.com/ze05ad)
+## 🛠️ Core Skills
+
+- **Frontend:** JavaScript, TypeScript, React.js, Next.js  
+- **Styling:** Tailwind CSS, Bootstrap, Sass, Responsive Design  
+- **State Management:** Zustand, Redux
+- **API Integration:** Axios, REST APIs
+- **Design Tools & Concepts:** Figma, UI/UX Principles
+- **Other Tools:** Git & GitHub
+
+---
+
+🎯 I enjoy translating ideas into pixel-perfect, high-performance web apps that offer great user experiences.
+
+📈 Constantly learning and improving — open to collaboration and new opportunities!
